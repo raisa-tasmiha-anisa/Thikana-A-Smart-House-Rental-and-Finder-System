@@ -1,11 +1,10 @@
 # THIKANA – Find Your Perfect Place to Call Home
 ### Smart House Rental & Finder Platform
-**Course Project**: SE 206 – Software Engineering Lab / Project  
+**Course Project**: SE 205 – Software Requirement Analysis and Specifications 
 **Institution**: University of Frontier Technology, Bangladesh (UFTB)  
 **Academic Supervisor**: Md. Moshiur Rahman  
 **Authors & Presenting Students**:
 - **Raisa Tasmiha Anisa** – Student ID: `2403029`
-- **Irin Jahan Meem** – Student ID: `2403026`
 
 ---
 
@@ -119,7 +118,7 @@ All seeded passwords have been secured with **BCrypt (12 rounds)**. The followin
 | **Landlord 1** | Raisa Tasmiha Anisa | `raisa.owner@thikana.com` | `landlord123` | Active Business Plan; 4 listed properties in Dhaka |
 | **Landlord 2** | Irin Jahan Meem | `meem.owner@thikana.com` | `landlord123` | Active Professional Plan; 3 listed properties |
 | **Tenant 1** | Tanvir Ahmed | `tanvir.tenant@thikana.com` | `tenant123` | Active 30-Day Tenant Pass; saved favorites & inquiries |
-| **Tenant 2** | Anisa Tabassum | `anisa.tenant@thikana.com` | `tenant123` | Free Standard Tier; active rental inquiries |
+| **Tenant 2** | anisa Tabassum | `anisa.tenant@thikana.com` | `tenant123` | Free Standard Tier; active rental inquiries |
 
 ---
 
@@ -166,10 +165,10 @@ This produces `target/Thikana.war` (approximately 8.45 MB, bundling Jakarta Tagl
 2. Start Tomcat (`bin/startup.bat`).
 3. Access the application in your browser:
    ```
-   http://localhost:8080/Thikana/
+   http://localhost:8081/Thikana/
    ```
 
-#### Option B: NetBeans / IntelliJ IDEA
+#### Option B: IntelliJ IDEA
 1. Open `D:\Projects\Thikana\Thikana` as a Maven Web Application project.
 2. In Project Properties -> Run, configure your local **Apache Tomcat 10.1** instance.
 3. Click **Run** or **Debug**. The IDE will auto-deploy and open `http://localhost:8080/Thikana/`.
@@ -302,7 +301,7 @@ Follow this 7-step guide to evaluate every major functionality of the applicatio
 
 ## 9. Academic Integrity & Project Details
 
-This software project has been conceived, designed, and implemented from scratch by **Raisa Tasmiha Anisa** and **Irin Jahan Meem** under the academic supervision of **Md. Moshiur Rahman** for course **SE 206 (Software Engineering Lab / Project)** at the **University of Frontier Technology, Bangladesh (UFTB)**.
+This software project has been conceived, designed, and implemented from scratch by **Raisa Tasmiha Anisa**  under the academic supervision of **Md. Moshiur Rahman** for course **SE 205 (Software Requirement Analysis and Specifications)** at the **University of Frontier Technology, Bangladesh (UFTB)**.
 
 All code, architectural designs, database schemas, and documentation are strictly developed for academic evaluation and real-world deployment demonstration.
 
