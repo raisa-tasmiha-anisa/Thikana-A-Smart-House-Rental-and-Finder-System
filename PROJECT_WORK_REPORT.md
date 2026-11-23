@@ -1,12 +1,11 @@
 # THIKANA – COMPLETE PROJECT WORK & IMPLEMENTATION REPORT
 ### Comprehensive Full-Stack Development Log & System Documentation
 **Project**: THIKANA – Find Your Perfect Place to Call Home  
-**Course**: SE 206 – Software Engineering Lab / Project  
+**Course**: SE 205 -Software Requirement Analysis and Specifications 
 **Institution**: University of Frontier Technology, Bangladesh (UFTB)  
 **Supervisor**: Md. Moshiur Rahman  
 **Developers & Authors**:
 - **Raisa Tasmiha Anisa** – Student ID: `2403029`
-- **Irin Jahan Meem** – Student ID: `2403026`
 
 ---
 
@@ -168,7 +167,7 @@ Visit: `http://localhost:8081/Thikana/`
    ```powershell
    Copy-Item "D:\Projects\Thikana\Thikana\target\Thikana.war" "C:\Program Files\Apache Software Foundation\Tomcat 10.1\webapps\"
    ```
-3. Visit: `http://localhost:8080/Thikana/`
+3. Visit: `http://localhost:8081/Thikana/`
 
 ---
 
